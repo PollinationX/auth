@@ -8,11 +8,9 @@ Any modifications and/or additions made by the Licensor in the third-party sourc
 The Licensor retains the right to license the Software under different terms, including terms of a proprietary licence.
 
 
-| N   | Software           | GitHub repository                                               |
-| --- | ------------------------| ----------------------------------------------------- |
-| 1   | dMail & dChat UI production client                   | https://github.com/immu3-io/app.immu3.io                     |
-| 2   | W3XSHARE UI production client           | https://github.com/immu3/w3xshare-dapp                   |
-| 3   | PollinationX dStorage production client   | https://github.com/PollinationX/dapp                   |
-| 4   | PollinationX SDK           | https://github.com/PollinationX/sdk-js                   |
-| 5   | PollinationX AUTH   | https://github.com/PollinationX/auth                 |
-| 6   | PollinationX NPM         | https://github.com/PollinationX/npm         |
+| N   | Software                                | GitHub repository                               |
+|-----|-----------------------------------------|-------------------------------------------------|
+| 1   | PollinationX dStorage production client | https://github.com/PollinationX/dapp            |
+| 2   | PollinationX SDK                        | https://github.com/PollinationX/sdk-js          |
+| 3   | PollinationX AUTH                       | https://github.com/PollinationX/auth            |
+| 4   | PollinationX Smart Contracts            | https://github.com/PollinationX/smart-contracts |
